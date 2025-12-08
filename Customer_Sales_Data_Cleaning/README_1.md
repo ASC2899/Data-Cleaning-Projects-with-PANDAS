@@ -10,7 +10,7 @@ The dataset was intentionally generated with errors, inconsistencies, and missin
 - **Goal**: Clean and standardize the dataset to make it analysis-ready.
 - **Tools**: Jupyter Notebook, Python
 - **Libraries**: Pandas, NumPy, Regex, Matplotlib.
-- Checkout the complete [cleaning_script](Customer_Sales_Data_Cleaning/cleaning_script.ipynb).
+- Checkout the complete [cleaning_script](Customer_Sales_Data_Cleaning/cleaning_scripts.ipynb).
 
 ---
 
