@@ -56,7 +56,18 @@ If you’d like to connect, collaborate, or discuss data analytics opportunities
   
 And many more steps checkout the complete [Customer Sales Data Cleaning Project](Customer_Sales_Data_Cleaning)
 
-### 2. Coming soon...
+
+### 2. Marketing Campaign Data Cleaning
+- **Raw dataset**: 2020 records of various campaign marketing with many errors (typos, inconsistent formats, invalid dates, outliers).
+- **Cleaning steps**:
+  - Standardized and renamed irregular column names.
+  - Cleaned and converted `Spend` column to numeric for financial analysis.
+  - Corrected categorical typos in `Channel` and mapped consistent `Campaign_Tag` values.
+  
+And many more steps checkout the complete [Marketing Campaign Data Cleaning Project](Marketing_Campaign_Data_Cleaning)
+
+
+### 3. Coming soon...
 
 ---
 
